@@ -110,7 +110,7 @@ def login():
      	
 		
 		jalan('  \033[1;94mWarning: \033[1;94mUse a New Account To Login' )
-		jalan(' \033[1;94mbro subscribe  YouTube' UCDKRvmw7ufXejkYXG51liKA) 
+		jalan(' \033[1;94mbro subscribe  YouTube') 
 		
 		print('	' )
 		print('      \033[1;94m      ✧ \x1b[1;92mLogin With Facebook\x1b[1;97m ✧')
